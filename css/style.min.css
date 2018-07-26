@@ -3,6 +3,9 @@ html{
   font-size:17px;
 }
 
+/* body {
+  position: relative;
+} */
 
 body, a{
   font-family: 'Karla', sans-serif;
@@ -23,10 +26,16 @@ h1{
   background-repeat: no-repeat, repeat;
   background-position: center;
   background-size:cover;
+  background-attachment: fixed;
   margin-bottom: 0;
+  box-shadow: none !important;
 }
 
-.jumbotron h1{
+.jumbotron h1 {
+  text-shadow: 0px 2px 7px rgba(0,0,0,0.5);
+}
+
+.jumbotron p {
   text-shadow: 0px 2px 7px rgba(0,0,0,0.5);
 }
 
@@ -41,8 +50,11 @@ h1{
 }
 
 .my-bio-image{
-
-  background-color:purple;
+  background-image: url("../img/IMG_1983.jpg");
+  background-color:grey;
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size:cover;
   height:70vh;
   margin:0;
   padding-left: 0;
@@ -57,7 +69,27 @@ h1{
 }
 
 .work {
-  background-image: url("../img/satinweave_@2X.png");
+  background-image: url("../img/footer_lodyas.png");
   height:100%;
+  color:white;
+
+}
+
+i:hover {
+  color:#CED6E0;
+}
+
+
+.projects{
+
+  padding-top:10%;
+}
+
+.bottom-nav{
+
+  padding-bottom:3%;
+}
+
+.project-images{
 
 }

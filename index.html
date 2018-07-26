@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Material Design Bootstrap</title>
+    <title>Jaleesa Scotland</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -20,23 +20,25 @@
     <link href="css/style.min.css" rel="stylesheet">
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#navbar-example">
 
     <!-- Start your project here-->
 
-      <nav class="navbar navbar-expand-lg navbar-light white fixed-top">
+      <nav class="navbar navbar-expand-lg navbar-light white fixed-top" id="navbar-example">
         <div class="container">
-          <a class="navbar-brand" href="#">Navbar</a>
+          <a class="navbar-brand px-lg-4 mr-0" href="#home">
+            <img src="img/JS_logo_personal.png" height="40"  alt="js-logo">
+          </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
 
-          <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup myNavbar">
             <div class="navbar-nav justify-content-end">
-                <a class="nav-item nav-link active" href="#">about <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="#">work</a>
-                <a class="nav-item nav-link" href="#">contact</a>
+                <a class="nav-item nav-link" href="#about">about</a>
+                <a class="nav-item nav-link" href="#work">work</a>
+                <a class="nav-item nav-link" href="#contact">contact</a>
             </div>
           </div>
         </div>
@@ -44,7 +46,7 @@
 
 
       <!--Jumbotron-->
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron jumbotron-fluid" id="home">
 
           <div class="container">
 
@@ -56,7 +58,7 @@
       </div>
       <!--Jumbotron-->
 
-      <div class="about">
+      <div class="about" id="about">
           <div class="row">
 
             <div class="col-md-6">
@@ -70,7 +72,9 @@
                   <p><strong>Hey I’m Jaleesa, Visual/ UI designer and budding front end developer based out of Toronto, Canada.</strong></p>
                   <p>In my free time I enjoy crate digging at my local record store for smooth grooves, or snapping photos outdoors with my nifty fifty.</p>
                   <p>Looking for a bit more professional background info on me? I've placed a cool button below for you to check out my CV. :)</p>
-                  <button type="button" class="btn btn-outline-primary darken-4 waves-effect">Primary</button>
+                  <a target="_blank" href="img/documents/JaleesaScotland_CV.pdf">
+                    <button type="button" class="btn btn-blue-grey">Here's my CV</button>
+                  </a>
                 </div>
               </div>
 
@@ -78,37 +82,66 @@
         </div>
 
 
-      <div class="work">
+      <div class="work" id="work">
         <div class="container">
-          <h1 class=" pt-5">My work.</h1>
+          <h1 class=" pt-5">My work</h1>
 
           <div class="row">
-            <div class="col-md-6">
-              <img class="img-fluid mt-4" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+            <div class="col-md-6 mt-4">
+              <div class="view overlay">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/People/6-col/img%20(7).jpg" class="img-fluid " alt="">
+                <a href="first-king.html">
+                  <div class="mask flex-center rgba-black-strong">
+                    <p class="white-text">First King Clothing</p>
+                  </div>
+                </a>
+              </div>
             </div>
-            <div class="col-md-6">
-              <img class="img-fluid mt-4" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+            <div class="col-md-6 mt-4">
+                <div class="view overlay">
+                    <img src="https://mdbootstrap.com/img/Photos/Horizontal/People/6-col/img%20(7).jpg" class="img-fluid " alt="">
+                  <a href="#">
+                    <div class="mask flex-center rgba-black-strong">
+                      <p class="white-text">OWL Connected E-magazine</p>
+                    </div>
+                  </a>
+                </div>
             </div>
           </div>
 
           <div class="row">
-            <div class="col-md-6">
-              <img class="img-fluid mt-4" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+            <div class="col-md-6 mt-4">
+              <div class="view overlay">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/People/6-col/img%20(7).jpg" class="img-fluid " alt="">
+                <a href="#">
+                  <div class="mask flex-center rgba-black-strong">
+                    <p class="white-text">Owlkids Books Redesign</p>
+                  </div>
+                </a>
+              </div>
             </div>
-            <div class="col-md-6">
-              <img class="img-fluid mt-4" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+            <div class="col-md-6 mt-4">
+              <div class="view overlay">
+                  <img src="https://mdbootstrap.com/img/Photos/Horizontal/People/6-col/img%20(7).jpg" class="img-fluid " alt="">
+                <a href="#">
+                  <div class="mask flex-center rgba-black-strong">
+                    <p class="white-text">Strong overlay</p>
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
+
           <div class="row">
             <div class="col">
-              <p class="text-center mt-5 mb-5">I also have some more visuals on my <a><strong>dribbble</strong></a> page, feel free to check those out!
+              <p class="text-center mt-5 mb-5">I also have some more visuals on my <a href="https://dribbble.com/discoxjunkie" target="_blank"><strong class="pink-text"><u>dribbble</u></strong></a> page, feel free to check those out!
             </div>
           </div>
         </div>
       </div>
 
 
-      <div class="contact">
+      <div class="contact" id="contact" >
           <div class="container">
 
             <div class="row">
@@ -119,7 +152,7 @@
 
               <div class="col-md-6">
                 <!-- Default form contact -->
-                <form class="text-center p-5">
+                <form class="text-center p-5" action="http://formspree.io/jaleesascotland@gmail.com" method="POST">
                     <!-- Name -->
                     <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
 
@@ -127,10 +160,10 @@
                     <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
                     <!-- Message -->
                     <div class="form-group">
-                        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
+                        <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="What's up?"></textarea>
                     </div>
                     <!-- Send button -->
-                    <button class="btn btn-info btn-block" type="submit">Send</button>
+                    <button class="btn btn-info btn-block btn-blue-grey" type="submit">Send</button>
 
                 </form>
                 <!-- Default form contact -->
@@ -144,9 +177,20 @@
       <footer class="border-top">
         <p class="text-center pt-2"><small>Copyright Jaleesa Scotland 2018</small></p>
         <div class = "text-center mb-4">
-          <i class="fa fa-instagram" aria-hidden="true"></i>
-          <i class="fa fa-instagram" aria-hidden="true"></i>
-          <i class="fa fa-dribbble" aria-hidden="true"></i>
+          <a href="https://dribbble.com/discoxjunkie" target="_blank">
+            <i class="fa fa-dribbble fa-lg" aria-hidden="true"></i>
+          </a>
+
+          <a href="https://twitter.com/DISCOxjunkie" target="_blank">
+            <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+          </a>
+
+          <a href="https://www.instagram.com/discoxjunk/?hl=en" target="_blank">
+            <i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/jaleesa-scotland-790aa632/" target="_blank">
+            <i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>
+          </a>
         </div>
       </footer>
 
@@ -172,6 +216,7 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
 </body>
 
 </html>
