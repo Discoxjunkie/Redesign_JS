@@ -24,3 +24,5 @@ $(document).ready(function(){
 });
 
 $('body').scrollspy({ target: '#navbar-example' })
+
+new WOW().init();
