@@ -1,67 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="900px" height="605.969px" viewBox="0 57.608 900 605.969" enable-background="new 0 57.608 900 605.969"
-	 xml:space="preserve">
-<text transform="matrix(1 0 0 1 65.7456 503.3916)" fill="#58606F" font-family="'Karla-Bold'" font-size="17">Typefaces</text>
-<text transform="matrix(1 0 0 1 65.7456 616.5273)" fill="#58606F" font-family="'Karla-Regular'" font-size="12">Raleway</text>
-<text transform="matrix(1 0 0 1 518.1875 617)" fill="#58606F" font-family="'Karla-Regular'" font-size="12">Atma- Bold</text>
-<text transform="matrix(1 0 0 1 518.1875 544.9141)" font-family="'Atma-Bold'" font-size="20">abcdefghijklmnopqrstuvwxyz </text>
-<text transform="matrix(1 0 0 1 518.1875 568.9141)" font-family="'Atma-Bold'" font-size="20">abcdefghijklmnopqrstuvwxyz</text>
-<text transform="matrix(1 0 0 1 518.1875 592.9141)" font-family="'Atma-Bold'" font-size="20">1234567890</text>
-<text transform="matrix(1 0 0 1 65.7446 544.9141)" font-family="'Raleway-Regular'" font-size="20">abcdefghijklmnopqrstuvwxyz </text>
-<text transform="matrix(1 0 0 1 65.7446 568.9141)" font-family="'Raleway-Regular'" font-size="20">abcdefghijklmnopqrstuvwxyz</text>
-<text transform="matrix(1 0 0 1 65.7446 592.9141)" font-family="'Raleway-Regular'" font-size="20">1234567890</text>
-<text transform="matrix(1 0 0 1 65.7456 125.7383)" fill="#58606F" font-family="'Karla-Bold'" font-size="17">Colours</text>
-<text transform="matrix(1 0 0 1 168.625 197.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">CMYK: </text>
-<text transform="matrix(1 0 0 1 217.8291 197.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">1, 17, 98, 0</text>
-<text transform="matrix(1 0 0 1 168.625 214.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
-<text transform="matrix(1 0 0 1 205.9048 214.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">255, 208, 12</text>
-<text transform="matrix(1 0 0 1 452.749 197.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">CMYK: </text>
-<text transform="matrix(1 0 0 1 501.9531 197.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">0, 88, 74, 0</text>
-<text transform="matrix(1 0 0 1 452.3828 214.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
-<text transform="matrix(1 0 0 1 489.6641 214.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">245, 68, 68</text>
-<text transform="matrix(1 0 0 1 731.373 197.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">CMYK: </text>
-<text transform="matrix(1 0 0 1 780.5762 197.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">100, 84, 22, 6</text>
-<text transform="matrix(1 0 0 1 731.373 214.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
-<text transform="matrix(1 0 0 1 768.6523 214.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">0, 65, 130</text>
-<circle fill="#FFD00C" cx="110.626" cy="197.019" r="44.881"/>
-<text transform="matrix(1 0 0 1 168.6245 329.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">CMYK: </text>
-<text transform="matrix(1 0 0 1 217.8286 329.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">29, 2, 92, 0</text>
-<text transform="matrix(1 0 0 1 168.6245 346.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
-<text transform="matrix(1 0 0 1 205.9043 346.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">193, 211, 67</text>
-<circle fill="#C1D343" cx="110.625" cy="329.019" r="44.881"/>
-<text transform="matrix(1 0 0 1 454.0176 329.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">CMYK: </text>
-<text transform="matrix(1 0 0 1 503.2227 329.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">70, 85, 4, 0</text>
-<text transform="matrix(1 0 0 1 454.0176 346.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
-<text transform="matrix(1 0 0 1 491.2979 346.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">107, 72, 151</text>
-<circle fill="#6B4897" cx="396.019" cy="329.019" r="44.881"/>
-<circle fill="#004182" cx="678.354" cy="197.019" r="44.881"/>
-<circle fill="#F54444" cx="396.019" cy="197.019" r="44.881"/>
-<g id="Ellipse_1">
-	<g>
-		<circle fill="#FFD00C" cx="-497" cy="228.138" r="76"/>
-	</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="950px"
+	 height="821.074px" viewBox="-25 -155.516 950 821.074" enable-background="new -25 -155.516 950 821.074" xml:space="preserve">
+<g id="Layer_1">
+	<text transform="matrix(1 0 0 1 65.7456 503.3916)" fill="#58606F" font-family="'Karla-Bold'" font-size="17">Typefaces</text>
+	<text transform="matrix(1 0 0 1 65.7456 616.5273)" fill="#58606F" font-family="'Karla-Regular'" font-size="12">Raleway</text>
+	<text transform="matrix(1 0 0 1 518.1875 617)" fill="#58606F" font-family="'Karla-Regular'" font-size="12">Atma- Bold</text>
+	<text transform="matrix(1 0 0 1 518.1875 544.9141)" font-family="'Atma-Bold'" font-size="20">abcdefghijklmnopqrstuvwxyz </text>
+	<text transform="matrix(1 0 0 1 518.1875 568.9141)" font-family="'Atma-Bold'" font-size="20">abcdefghijklmnopqrstuvwxyz</text>
+	<text transform="matrix(1 0 0 1 518.1875 592.9141)" font-family="'Atma-Bold'" font-size="20">1234567890</text>
+	<text transform="matrix(1 0 0 1 65.7446 544.9141)" font-family="'Raleway-Regular'" font-size="20">abcdefghijklmnopqrstuvwxyz </text>
+	<text transform="matrix(1 0 0 1 65.7446 568.9141)" font-family="'Raleway-Regular'" font-size="20">abcdefghijklmnopqrstuvwxyz</text>
+	<text transform="matrix(1 0 0 1 65.7446 592.9141)" font-family="'Raleway-Regular'" font-size="20">1234567890</text>
+	<text transform="matrix(1 0 0 1 65.7456 170.7383)" fill="#58606F" font-family="'Karla-Bold'" font-size="17">Colours</text>
+	<text transform="matrix(1 0 0 1 65.7446 -90.7588)" fill="#58606F" font-family="'Karla-Bold'" font-size="17">Revised logo</text>
+	<text transform="matrix(1 0 0 1 168.625 242.0186)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603"> </text>
+	<text transform="matrix(1 0 0 1 168.6245 242.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">#FFD00C</text>
+	<text transform="matrix(1 0 0 1 168.625 259.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
+	<text transform="matrix(1 0 0 1 205.9048 259.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">255, 208, 12</text>
+	<text transform="matrix(1 0 0 1 454.0176 242.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">#F54444</text>
+	<text transform="matrix(1 0 0 1 452.3828 259.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
+	<text transform="matrix(1 0 0 1 489.6641 259.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">245, 68, 68</text>
+	<text transform="matrix(1 0 0 1 731.373 242.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">#004182</text>
+	<text transform="matrix(1 0 0 1 731.373 259.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
+	<text transform="matrix(1 0 0 1 768.6523 259.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">0, 65, 130</text>
+	<circle fill="#FFD00C" cx="110.626" cy="242.019" r="44.881"/>
+	<text transform="matrix(1 0 0 1 168.625 374.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">#C1D343</text>
+	<text transform="matrix(1 0 0 1 168.6245 391.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
+	<text transform="matrix(1 0 0 1 205.9043 391.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">193, 211, 67</text>
+	<circle fill="#C1D343" cx="110.625" cy="374.02" r="44.881"/>
+	<text transform="matrix(1 0 0 1 454.0176 374.0186)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">#6B4897</text>
+	<text transform="matrix(1 0 0 1 454.0176 391.9707)" fill="#58606F" font-family="'Karla-Bold'" font-size="14.9603">RBG: </text>
+	<text transform="matrix(1 0 0 1 491.2979 391.9707)" fill="#58606F" font-family="'Karla-Regular'" font-size="14.9603">107, 72, 151</text>
+	<circle fill="#6B4897" cx="396.019" cy="374.02" r="44.881"/>
+	<circle fill="#004182" cx="678.354" cy="242.019" r="44.881"/>
+	<circle fill="#F54444" cx="396.019" cy="242.019" r="44.881"/>
 </g>
-<g id="Ellipse_1_7_">
+<g id="Layer_2">
 	<g>
-		<circle fill="#F54444" cx="-311" cy="228.138" r="76"/>
+		<polygon stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="162.964,-52.864 
+			212.047,-27.445 212.047,81.238 162.964,55.82 		"/>
+		<text transform="matrix(1 0 0 1 206.7881 82.356)" font-family="'Avenir-Roman'" font-size="152.5076">B</text>
+		
+			<line stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="210.585" y1="-27.445" x2="174.942" y2="-61.628"/>
+		
+			<line stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="210.585" y1="-27.445" x2="168.807" y2="-56.516"/>
+		<text transform="matrix(1 0 0 1 296.0654 63.7075)" font-family="'Avenir-Roman'" font-size="149.0016" letter-spacing="-2">ooks</text>
+		<g>
+			<path fill="#ED3024" d="M101.896,7.809C106.219,5.861,133.642-6.5,133.642-6.5l5.052,11.208l-5.522,2.489
+				c3.683,5.762,5.819,12.607,5.819,19.952c0,20.482-16.603,37.085-37.083,37.085c-20.482,0-37.085-16.604-37.085-37.085
+				c0-7.345,2.137-14.19,5.819-19.952l-5.52-2.489L70.173-6.5c0,0,27.424,12.362,31.746,14.309H101.896z"/>
+		</g>
 	</g>
-</g>
-<g id="Ellipse_1_5_">
 	<g>
-		<circle fill="#004182" cx="-126" cy="228.138" r="76"/>
+		<polygon stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="802.982,-35.46 
+			840.389,-16.089 840.389,66.735 802.982,47.365 		"/>
+		
+			<line stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="839.274" y1="-16.089" x2="812.112" y2="-42.139"/>
+		
+			<line stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="839.274" y1="-16.089" x2="807.437" y2="-38.243"/>
+		<g>
+			<path fill="#ED3024" d="M756.447,10.777c3.293-1.484,24.19-10.905,24.19-10.905l3.85,8.541l-4.207,1.897
+				c2.807,4.391,4.435,9.608,4.435,15.205c0,15.609-12.652,28.262-28.261,28.262c-15.607,0-28.261-12.653-28.261-28.262
+				c0-5.597,1.628-10.813,4.434-15.205l-4.206-1.897l3.85-8.541c0,0,20.898,9.421,24.192,10.905H756.447z"/>
+		</g>
 	</g>
-</g>
-<g id="Ellipse_1_3_">
-	<g>
-		<circle fill="#C1D343" cx="-412" cy="537.138" r="76"/>
-	</g>
-</g>
-<g id="Ellipse_1_4_">
-	<g>
-		<circle fill="#6B4897" cx="-221" cy="537.138" r="76"/>
-	</g>
+	<line fill="#58606F" x1="662.581" y1="-68.452" x2="662.581" y2="103.084"/>
 </g>
 </svg>
